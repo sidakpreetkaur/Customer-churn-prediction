@@ -1,4 +1,4 @@
-#Customer Churn Prediction
+# Customer Churn Prediction
 Project Overview
 
 Customer churn refers to customers leaving or stopping their relationship with a business. The goal of this project is to build a machine learning model that can identify customers who are likely to churn.
